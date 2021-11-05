@@ -1,3 +1,3 @@
 # testingOS
-It is for creating lab 
-used to demonstrate how to create a repository
+It is for lab 
+It is used to demonstrate how to create a repository
